@@ -10,19 +10,19 @@
 
 1️⃣ Image Search 
 → Search and display images using an external API
-https://github.com/KhanitthaLyn/SearchImage-ReactMiniProject
+→ https://github.com/KhanitthaLyn/SearchImage-ReactMiniProject
 
 2️⃣ Task Manager 
 → Create, update, and delete tasks (Todo app with state management)
-https://github.com/KhanitthaLyn/TaskApp-ReactMiniProject
+→ https://github.com/KhanitthaLyn/TaskApp-ReactMiniProject
 
 3️⃣ Shopping Cart
 → Basic shopping cart functionality with add/remove items and simple state handling
-https://github.com/KhanitthaLyn/Shoppping-ReactMiniProject
+→ https://github.com/KhanitthaLyn/Shoppping-ReactMiniProject
 
 4️⃣ Blog App
 → Create and display blog posts, basic CRUD operations with form handling
-"HERE"
+→ "HERE"
 
 📚 Why I Built?
 These projects were developed to practice and reinforce my React.js knowledge:  
@@ -41,6 +41,6 @@ These projects were developed to practice and reinforce my React.js knowledge:
 
 🔍 How to Run
 Clone this repository and run any project locally:
-cd project-folder
-npm install
-npm start
+→ cd project-folder
+→ npm install
+→ npm start
